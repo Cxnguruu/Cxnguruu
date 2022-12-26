@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Jason, also known as Cxnguruu (you should pronounce it like Kangaroo). Currently located in Brazil, Federal District. 19 yo.
+- 👀 I’m interested in technologies, music, illustration, sculpting and games! 
+- 🌱 I’m currently learning Pentesting and a lot of Python frameworks and modules, such as Discord.py and Selenium.
+- 💞️ I’m looking to collaborate on projects that I can help! Because I'm newbie, there isn't much I can do.
+- 📫 How to reach me: E-mail me! jasontogit@gmail.com
+- ⚡ Fun fact: I'm not a Kangaroo.
